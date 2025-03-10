@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding in html,css more to discover.
 - 🌱 I’m currently learning c#,c++.
 - 📫 How to reach me email: filipdimepanco@gmail.com
-- ⚡ Fun fact: I like playing videogames, im also working with photography and video-photo editing. Most of the work i do is on adobe light room, photo shop and premire pro.
+- ⚡ Fun fact: I like playing videogames, im also working with photography and video-photo editing. Most of the work i do is on adobe light room, photoshop and premire pro.
