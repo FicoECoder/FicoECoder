@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FicoECoder aka Filip, im from Macedonia.
-- 👀 I’m interested in coding in html,css more to learn.
-- 🌱 I’m currently learning c#,c++.
+- 👀 I’m interested in coding in html,css and more.
 - 📫 How to reach me email: filipdimepanco@gmail.com
 - ⚡ Fun fact: I like playing videogames, im also working with photography and video-photo editing. Most of the work i do is on adobe light room, photoshop and premire pro.
